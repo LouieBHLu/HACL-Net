@@ -10,7 +10,7 @@ ________________________________________________________________
 ## Citation
 
 ```
-To be detemined
+Lu, M., Wang, T., Zhu, H., Li, M. (2023). HACL-Net: Hierarchical Attention and Contrastive Learning Network for MRI-Based Placenta Accreta Spectrum Diagnosis. In: Greenspan, H., et al. Medical Image Computing and Computer Assisted Intervention – MICCAI 2023. MICCAI 2023. Lecture Notes in Computer Science, vol 14226. Springer, Cham. https://doi.org/10.1007/978-3-031-43990-2_29
 ```
 
 
